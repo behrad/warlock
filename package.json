@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/thedeveloper/warlock",
   "dependencies": {
-    "node-redis-scripty": "~0.0.4",
+    "node-redis-scripty": "behrad/scripty",
     "uuid": "2.0.1"
   },
   "devDependencies": {
